@@ -8,6 +8,8 @@
 [前端基础深入](https://wangtunan.github.io/blog/designPattern/#this-call%E5%92%8Capply)
 [前端 Web Infrastructure](https://jishuin.proginn.com/p/763bfbd7a93c)
 
+[git 报错信息：Failed to connect to github.com port 443: Timed out](https://blog.csdn.net/twi_twi/article/details/124692509)
+
 ## 前端工具库
 
 [性能分析](https://developers.google.com/speed/pagespeed/insights/)
